@@ -1,4 +1,4 @@
-# CSCI4221
+# CSCI4221 - Fall 2024
 This repository will contain all the information for Project 1.
 That will include all updates, future planning, features available, etc.
 
